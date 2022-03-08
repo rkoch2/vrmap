@@ -1,4 +1,19 @@
 [
+  {
+    "title": "Brown Main Green",
+    "latitude": 41.826177,
+    "longitude": -71.403273
+  },
+  {
+    "title": "SciLi/CIT",
+    "latitude": 41.826699,
+    "longitude": -71.400119
+  },
+  {
+    "title": "Outside Grad Center",
+    "latitude": 41.822952,
+    "longitude": -71.400633
+  },
   { "title": "Wien Gaudenzdorf",
     "latitude": 48.18594,
     "longitude": 16.34177
