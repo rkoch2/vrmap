@@ -168,6 +168,7 @@ function loadScene() {
   loadGroundTiles();
   loadTrees();
   loadBuildings();
+  loadDigSites();
 }
 
 function getTagsForXMLFeature(xmlFeature) {
